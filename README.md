@@ -1,6 +1,6 @@
 # Welcome to Dhruvi Infra
 
-![Dhruvi Infra Logo](https://drive.google.com/file/d/1jz5ti1E9mBFizkmf29rcvFxEiPhVGiA1/view?usp=share_link)
+![Dhruvi Infra Logo](https://github.com/dhruviinfra/dhruviinfra/blob/main/5.png)
 
 ## About Us
 
